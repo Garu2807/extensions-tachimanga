@@ -1,0 +1,21 @@
+{
+  "extensions": [
+    {
+      "name": "Tachiyomi: Mangalivre",
+      "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
+      "apk": "tachiyomi-pt.mangalivre-v1.0.0.apk",
+      "lang": "pt",
+      "code": 1,
+      "version": "1.0.0",
+      "nsfw": 0,
+      "sources": [
+        {
+          "name": "Mangá Livre",
+          "lang": "pt",
+          "id": "1234567890",
+          "baseUrl": "https://mangalivre.ru"
+        }
+      ]
+    }
+  ]
+}
